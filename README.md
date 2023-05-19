@@ -1,4 +1,6 @@
-### Hi there 👋
+# [Tweets by GPT-LOTUS](https://twitter.com/GPT_LOTUS?ref_src=twsrc%5Etfw)
+# 📧 Email me: gpt.lotus@gmail.com
+# 💬 Discord: (🛠️ Under construction..)
 
 <!--
 **GPT-LOTUS/GPT-LOTUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
